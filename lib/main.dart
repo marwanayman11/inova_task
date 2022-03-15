@@ -1,16 +1,16 @@
 import 'package:bloc/bloc.dart';
 import 'package:flutter/material.dart';
-import 'package:inova_task/layout/layout.dart';
+import 'package:inova_task/modules/1/1.dart';
 import 'package:inova_task/shared/network/local/bloc_observer.dart';
 
-void main() {
+void main() async{
+  WidgetsFlutterBinding.ensureInitialized();
   BlocOverrides.runZoned(
         () {
-      // Use cubits...
-    },
+          runApp(const MyApp());
+        },
     blocObserver: MyBlocObserver(),
   );
-  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Layout(),
+      home: ScreenOne(),
     );
   }
 }
