@@ -1,6 +1,6 @@
 import 'package:bloc/bloc.dart';
 import 'package:flutter/material.dart';
-import 'package:inova_task/modules/1/1.dart';
+import 'package:inova_task/modules/training_series/training_series.dart';
 import 'package:inova_task/shared/network/local/bloc_observer.dart';
 
 void main() async{
@@ -18,9 +18,10 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return MaterialApp(
+      theme: ThemeData(primarySwatch:Colors.grey),
       debugShowCheckedModeBanner: false,
-      home: ScreenOne(),
+      home: const TrainingSeries(),
     );
   }
 }

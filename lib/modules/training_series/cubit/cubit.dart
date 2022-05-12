@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'package:bloc/bloc.dart';
 import 'package:flutter/services.dart';
-import 'package:inova_task/modules/1/cubit/states.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:inova_task/modules/training_series/cubit/states.dart';
 class ScreenCubit extends Cubit<ScreenStates> {
   ScreenCubit() : super(InitialState());
   static ScreenCubit get(context) => BlocProvider.of(context);
@@ -13,9 +13,9 @@ class ScreenCubit extends Cubit<ScreenStates> {
       items=data['TrainingSeries'];
       emit(SuccessState());
     }).catchError((error){
-      print(error.toString());
       emit(ErrorState(error.toString()));
     });
   }
+
 
 }

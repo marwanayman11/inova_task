@@ -5,3 +5,6 @@ class ErrorState extends ScreenStates{
   late final String error;
   ErrorState(this.error);
 }
+class ShowSuccess extends ScreenStates{}
+class HideSuccess extends ScreenStates{}
+

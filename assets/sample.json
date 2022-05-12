@@ -1,19 +1,12 @@
 {
   "TrainingSeries": [
     {
-      "CoachName": "Josh karner",
+      "CoachName": "Josh kramer",
+      "profile": "https://d2lesx9toesny3.cloudfront.net/normal_b3afc5ec-5cda-4eae-9939-fe2855dd94e2.jpg",
+      "AboutCoach": "Josh is an international yoga teacher, who grew up in Zimbabwe. He spent his youth in New Zealand, where he developed his passion for yoga.\n\nToday, his style melds a unique blend of Iyengar Yoga and Vinyasa flow. His emphasis on alignment and pose integrity allows students to safely deepen their practice and build full body strength and control – all while gaining a rich understanding of classical and nuanced yoga postures.\n\nIn addition to teaching and practicing yoga, Josh works as a humanitarian professional, supporting the implementation of programs in developing countries with the vision of achieving a sustainable world free from poverty and injustice. He has worked with countries across Africa, Asia, and the Pacific.",
       "SeriesName": "The Challenge",
-      "CoverPhoto": "https://th.bing.com/th/id/R.5966905097e6bd17da7fb2295996824f?rik=UXdTbZtjF3xdCg&riu=http%3a%2f%2fwww.lepfitness.co.uk%2fwp-content%2fuploads%2f2015%2f02%2f10295315_638297519574444_1956665001342362114_o.jpg&ehk=7jWmjYDY%2fz9ef1uEXO3muLJiIm8KV7BUNpYP9USrdEE%3d&risl=&pid=ImgRaw&r=0"
-    },
-    {
-      "CoachName": "Josh karner",
-      "SeriesName": "The Challenge",
-      "CoverPhoto": "https://th.bing.com/th/id/R.5966905097e6bd17da7fb2295996824f?rik=UXdTbZtjF3xdCg&riu=http%3a%2f%2fwww.lepfitness.co.uk%2fwp-content%2fuploads%2f2015%2f02%2f10295315_638297519574444_1956665001342362114_o.jpg&ehk=7jWmjYDY%2fz9ef1uEXO3muLJiIm8KV7BUNpYP9USrdEE%3d&risl=&pid=ImgRaw&r=0"
-    },
-    {
-      "CoachName": "Josh karner",
-      "SeriesName": "The Challenge",
-      "CoverPhoto": "https://th.bing.com/th/id/R.5966905097e6bd17da7fb2295996824f?rik=UXdTbZtjF3xdCg&riu=http%3a%2f%2fwww.lepfitness.co.uk%2fwp-content%2fuploads%2f2015%2f02%2f10295315_638297519574444_1956665001342362114_o.jpg&ehk=7jWmjYDY%2fz9ef1uEXO3muLJiIm8KV7BUNpYP9USrdEE%3d&risl=&pid=ImgRaw&r=0"
+      "CoverPhoto": "https://d357mttm70bw7x.cloudfront.net/normal_18a3adab-7439-4568-b09d-1f2d667a2679.jpg",
+      "about": "Get ready for the ultimate fitness test. The Challenge is a month-long series designed to improve your strength, endurance, agility, and flexibility. Each week, you’ll sweat through six high-intensity workouts packed with yoga-inspired exercises and explosive plyometrics that will test your physical and mental toughness. At the end of each week, you’ll take a Fit Test to track your progress and see how far you’ve come. Prepare to work every muscle in your body and push yourself to the edge. Are you up for The Challenge?\n\nIn this series, you will:\n- Build rock-solid strength and endurance\n- Increase agility and flexibility\n- Improve cardiovascular fitness"
     }
   ]
 }
